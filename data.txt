@@ -1,0 +1,9 @@
+item1 900 10
+item2 2000 15
+item3 1000 8
+item4 5000 22
+item5 1200 12
+item6 8000 34
+item7 600 45
+item8 200 10 
+item9 300 20
